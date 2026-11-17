@@ -1,5 +1,11 @@
-# Portal de Monitoramento · Portfólio
+# Portal de Monitoramento
 
-Painel Flask com verificações HTTP, consulta de estado de serviços e métricas do ambiente.
+Painel web em Python e Flask para acompanhar a disponibilidade de serviços
+HTTP, seus tempos de resposta e métricas do ambiente em uma única tela.
 
-Execute `docker compose up --build` e abra http://localhost:5000. A configuração de demonstração verifica somente o portal local. Use `DEMO_SERVICE_URL` para apontar para um serviço de teste sob sua administração.
+![Painel com status dos serviços, tempos de resposta e métricas do ambiente]
+
+<img width="1912" height="959" alt="Captura de tela 2026-11-16 221725" src="https://github.com/user-attachments/assets/b2ec619d-b43d-4d4f-b746-8f5975cd56c0" />
+
+
+*Versão hospedada do Portal de Monitoramento em funcionamento.*
